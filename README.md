@@ -1,2 +1,2 @@
-# portfolioReact
-Projeto de interface para consumo das APIs relacionadas
+# Projeto Portfolio React
+Projeto de aplicação para consumo das APIs relacionadas através da biblioteca React.
